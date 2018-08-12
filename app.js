@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 // require
 const fs = require('fs');
 const si = require('systeminformation');
@@ -132,7 +134,7 @@ const account = {
  
         var settings = {
           slack: {
-            "token": "xoxp-319230535345-319230535569-415138718834-6dd28d97f1812d8441f930472d0c8bdb"
+            "token": "HERE INSERT SLACK'S WORKSPACE TOKEN"
             }
         };
          
