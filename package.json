@@ -1,0 +1,26 @@
+{
+  "name": "sysinfo",
+  "version": "1.0.0",
+  "description": "TrySys",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bojan savic",
+  "license": "ISC",
+  "dependencies": {
+    "network": "^0.4.1",
+    "nodemailer": "^4.6.7",
+    "ping": "^0.2.2",
+    "sender-js": "^0.6.3",
+    "systeminformation": "^3.42.9"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "svarty"
+  },
+  "keywords": [
+    "try"
+  ]
+}
