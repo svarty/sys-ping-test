@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+cd downloads/sys-ping-test-master
 
-npm install
-node app.js
+npm install;
+node app.js;

@@ -135,6 +135,7 @@ const account = {
         var settings = {
           slack: {
             "token": "HERE INSERT SLACK'S WORKSPACE TOKEN"
+                      
             }
         };
          
